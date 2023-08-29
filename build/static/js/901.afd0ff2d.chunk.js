@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkairbnb=self.webpackChunkairbnb||[]).push([[901],{9901:function(n,i,e){e.r(i),e.d(i,{default:function(){return o}});var s,r=e(2791),a=e(168),c=e(7691).ZP.div(s||(s=(0,a.Z)(["\n  \n"]))),t=e(184),o=(0,r.memo)((function(){return(0,t.jsxs)(c,{children:[(0,t.jsx)("div",{className:"filter",children:"filter-section"}),(0,t.jsx)("div",{className:"rooms",children:"room-section"}),(0,t.jsx)("div",{className:"pagination",children:"pagination-section"})]})}))}}]);
+//# sourceMappingURL=901.afd0ff2d.chunk.js.map
